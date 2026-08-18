@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+artifacts/
+models/
+voxadapt.db
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+data/train.jsonl
