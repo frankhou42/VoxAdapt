@@ -1,0 +1,12 @@
+{"id":"cold_warm","voice":"Samantha","text":"Record cold start and warm start separately."}
+{"id":"latency_report","voice":"Daniel","text":"Add the latency results to the experiment report."}
+{"id":"design_review","voice":"Samantha","text":"Can we move the design review to three in the afternoon?"}
+{"id":"inference_path","voice":"Daniel","text":"The inference path should preserve the original meaning."}
+{"id":"regression_suite","voice":"Samantha","text":"Run the regression suite before deploying the service."}
+{"id":"personalization","voice":"Daniel","text":"I finished reviewing the personalization experiment."}
+{"id":"api_response","voice":"Samantha","text":"The API returned a valid response for every test case."}
+{"id":"quantization","voice":"Daniel","text":"Compare eight bit quantization against floating point inference."}
+{"id":"correction_history","voice":"Samantha","text":"Keep the user's correction history on the local device."}
+{"id":"speech_interface","voice":"Daniel","text":"A useful speech interface should feel immediate and reliable."}
+{"id":"semantic_guardrail","voice":"Samantha","text":"Reject a rewrite when it changes the user's intended meaning."}
+{"id":"bandit_feedback","voice":"Daniel","text":"The contextual bandit learns from accepted and edited suggestions."}

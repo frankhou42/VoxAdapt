@@ -1,0 +1,12 @@
+{"raw":"um send the deck to sarah tomorrow morning","reference":"Send the deck to Sarah tomorrow morning.","channel":"email","replacements":{"sarah":"Sarah"}}
+{"raw":"hey uh can we move the sync to three","reference":"Hey can we move the sync to three","channel":"chat"}
+{"raw":"i i finished the latency benchmark","reference":"I finished the latency benchmark.","channel":"notes"}
+{"raw":"you know the p ninety five improved by twenty percent","reference":"The p ninety five improved by twenty percent.","channel":"email"}
+{"raw":"ship ship the patch after tests pass","reference":"Ship the patch after tests pass.","channel":"notes"}
+{"raw":"um please add alex to the review","reference":"Please add Alex to the review.","channel":"email","replacements":{"alex":"Alex"}}
+{"raw":"looks good to me","reference":"Looks good to me","channel":"chat"}
+{"raw":"uh record cold start and warm start separately","reference":"Record cold start and warm start separately.","channel":"notes"}
+{"raw":"like can you send the api docs","reference":"Can you send the API docs","channel":"chat","replacements":{"api":"API"}}
+{"raw":"we we should compare int eight against float thirty two","reference":"We should compare INT8 against float thirty two.","channel":"notes","replacements":{"int eight":"INT8"}}
+{"raw":"erm the model is ready for evaluation","reference":"The model is ready for evaluation.","channel":"email"}
+{"raw":"thanks thanks for catching that","reference":"Thanks for catching that","channel":"chat"}
